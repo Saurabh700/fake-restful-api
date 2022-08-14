@@ -1,0 +1,18 @@
+### To create a new heroku link
+
+https://github.com/Saurabh700/fake-restful-api
+
+1. after cloning this repository just replace data in db.json
+2. npm install
+3. git status
+4. git add .
+5. git commit -m "msg"
+6. git push origin master
+7. heroku login
+8. # Create the project
+   heroku create your-api-project-name
+9. # Deploy to Heroku
+   git push heroku master
+10. heroku open
+
+### To update current heroku link
