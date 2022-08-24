@@ -16,3 +16,13 @@ https://github.com/Saurabh700/fake-restful-api
 10. heroku open
 
 ### To update current heroku link
+
+1. change data in db.json
+2. git add .
+3. git commit -m "msg"
+4. git push origin master
+5. git push heroku master
+
+### Performing CRUD operations on heroku link
+
+https://codesandbox.io/s/heroku-crud-application-best-h6b5xs?file=/src/Todo.jsx
