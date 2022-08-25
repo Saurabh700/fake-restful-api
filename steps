@@ -22,6 +22,7 @@ https://github.com/Saurabh700/fake-restful-api
 3. git commit -m "msg"
 4. git push origin master
 5. git push heroku master
+6. heroku open
 
 ### Performing CRUD operations on heroku link
 
