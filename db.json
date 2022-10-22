@@ -1,32 +1,41 @@
 {
-  "dogs": [
+  "furniture": [
     {
-      "breed": "pomerin",
-      "age": "4",
-      "gender": "male",
-      "place": "ratlam",
+      "typeOfFurniture": "table",
+      "YearOfPurchase": "2022",
+      "desc": "This is my table",
+      "price": "423890",
+      "id": 1
+    },
+    {
+      "typeOfFurniture": "bed",
+      "YearOfPurchase": "2022",
+      "desc": "This is my bed",
+      "price": "4390",
       "id": 2
     },
     {
-      "breed": "rewr",
-      "age": "3",
-      "gender": "fds",
-      "place": "ggret",
+      "typeOfFurniture": "sofa",
+      "YearOfPurchase": "2022",
+      "desc": "this is my sofa",
+      "price": "2340",
+      "id": 3
+    },
+    {
+      "typeOfFurniture": "chair",
+      "YearOfPurchase": "2022",
+      "desc": "New office Chair",
+      "price": "34290",
       "id": 4
-    },
+    }
+  ],
+  "wishlisted": [
     {
-      "breed": "kutta",
-      "age": "8",
-      "gender": "male",
-      "place": "indore",
-      "id": 5
-    },
-    {
-      "breed": "rewe",
-      "age": "43",
-      "gender": "fd",
-      "place": "tretrrfd",
-      "id": 6
+      "typeOfFurniture": "chair",
+      "YearOfPurchase": "2022",
+      "desc": "New office Chair",
+      "price": "34290",
+      "id": 4
     }
   ]
 }
