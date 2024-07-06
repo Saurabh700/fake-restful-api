@@ -36,3 +36,5 @@ The database is in the file **[db.json](db.json)**. You can edit the JSON inform
 ## HTTP Requests & Endpoints
 
 Refer to the [json-server documentation](https://github.com/typicode/json-server) for how to use your API.
+![image](https://github.com/Saurabh700/fake-restful-api/assets/101572400/7fb08903-361b-4983-8341-c3df2d7d75f9)
+
